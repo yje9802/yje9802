@@ -1,4 +1,8 @@
-## Hi there 👋
+### Backend Developer
+- JAVA를 메인으로 하는 백엔드 개발자입니다.
+- [📌 자기소개 보러가기](https://jidak.notion.site/d154f57ac06c4cb48f1849768f5663c0?pvs=4)
+
+
 
 <!--
 **yje9802/yje9802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
