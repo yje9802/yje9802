@@ -15,7 +15,6 @@
 ![Framework](https://img.shields.io/badge/Framework-ffffff?style=for-the-badge&logo=frameworks&logoColor=black) 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![STOMP](https://img.shields.io/badge/Stomp-14354C?style=for-the-badge&logo=stomp&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ![Database](https://img.shields.io/badge/Database-ffffff?style=for-the-badge&logo=frameworks&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -25,3 +24,4 @@
 ![Infra](https://img.shields.io/badge/Infra-ffffff?style=for-the-badge&logo=frameworks&logoColor=black) 
 ![AmazonEC2](https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![AmazonS3](https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
