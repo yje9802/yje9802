@@ -14,7 +14,13 @@
 
 ![Framework](https://img.shields.io/badge/Framework-ffffff?style=for-the-badge&logo=frameworks&logoColor=black) 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![STOMP](https://img.shields.io/badge/Stomp-14354C?style=for-the-badge&logo=stomp&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![Backend Skills](https://img.shields.io/badge/Framework-ffffff?style=for-the-badge&logo=frameworks&logoColor=black)
+![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![STOMP](https://img.shields.io/badge/Stomp-black?style=for-the-badge&logo=stomp&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
 
 ![Database](https://img.shields.io/badge/Database-ffffff?style=for-the-badge&logo=frameworks&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
