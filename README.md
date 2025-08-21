@@ -2,7 +2,7 @@
 "도전은 새로운 경험"이라는 마음가짐과 함께 언제나 더 나은 미래를 추구하는 
 백엔드 개발자입니다.
 
-[자기소개 보러가기](https://jidak.notion.site/d154f57ac06c4cb48f1849768f5663c0?pvs=4)
+[자기소개 보러가기](https://jidak.notion.site/1a901bedbbf1809681ded0dc06f0cea4?source=copy_link)
 
 <br>
 
